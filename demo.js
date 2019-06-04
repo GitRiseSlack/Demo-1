@@ -15,7 +15,7 @@ class NameSpace {
    
    
    
-   
+      
    let a = one;
    a = one;
    a = one;
@@ -106,7 +106,8 @@ class NameSpace {
    a = one;
    a = one;
    a = one;
-   a = one;
+   a = one; 
+   
    a = one;
    a = one;
    a = one;
