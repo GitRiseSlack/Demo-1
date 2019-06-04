@@ -6,11 +6,13 @@ class NameSpace {
   return one + two + three + four + five + six + seven;
  };
 
- test = (one, two, tree, four, five, six, seven) => {
+
+ test2 = (one, two, tree, four, five, six, seven) => {
   return one + two + three + four + five + six + seven;
  };
    
- test   = ( one,two, tree, four, five, six, seven) =>  {
+
+ test3   = ( one,two, tree, four, five, six, seven) =>  {
    
    
    
@@ -114,10 +116,6 @@ class NameSpace {
    a = one;
    a = one;
 
-  return one + two + three + four + five + six + seven;
- };
-
- test = (one, two, tree, four, five, six, seven) => {
   return one + two + three + four + five + six + seven;
  };
 
