@@ -122,3 +122,10 @@ class NameSpace {
  };
 
 };
+
+const mutatting = (anArray) => {
+   anArray.forEach(item => {
+     item.prop = "test";
+   });
+  return anArray;
+}
