@@ -6,6 +6,7 @@ class NameSpace {
 }
 
 class NameSpace2 {
+  
   test(one, two, three, four, five, six, seven   )
   {
     return one + two + three + four + five + six + seven;
