@@ -12,7 +12,7 @@ class NameSpace3 {
     return one + two + three + four + five + six + seven;
   }
 }
-
+ 
 
 class NameSpace2 {
   
